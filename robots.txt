@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etorieye.github.io/DJl/sitemap_index.txt.gz
+Sitemap: https://etorieye.github.io/eHU/sitemap_index.txt.gz
+Sitemap: https://etorieye.github.io/geM/sitemap_index.txt.gz
+Sitemap: https://etorieye.github.io/mbX/sitemap_index.txt.gz
+Sitemap: https://etorieye.github.io/tZQ/sitemap_index.txt.gz
